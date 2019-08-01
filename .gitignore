@@ -1,4 +1,6 @@
-downloaded
+*.jpg
+*.mp4
+*.html
 temp_htmls
 raw
 urls
